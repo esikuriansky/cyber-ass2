@@ -1,0 +1,13 @@
+*****************************
+****** || KBlocker || *******
+*****************************
+
+Eliazer Sikuriansky
+ID : 321341935
+
+Requirements
+
+	- sudo apt-get install libssl-dev
+
+To run the LKM run load.sh 
+To stop the LKM run unload.sh
